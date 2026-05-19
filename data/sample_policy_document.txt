@@ -1,0 +1,25 @@
+Enterprise Knowledge Access Policy
+
+The organization provides internal users with access to approved financial records, compliance documents, operational policies, and risk management reports. Employees must use approved systems when searching or retrieving confidential enterprise documents.
+
+Manual document lookup has historically caused delays for finance, compliance, and audit teams. To improve productivity, the company is adopting semantic search and retrieval-augmented generation systems for faster access to enterprise knowledge.
+
+The policy requires that retrieved responses include source references wherever possible. This helps users verify information and supports auditability for enterprise decision-making.
+
+Access to confidential documents must follow role-based access control rules. Sensitive records should not be exposed to unauthorized users. All retrieval systems must follow security, logging, and monitoring requirements.Enterprise Knowledge Access Policy
+
+The organization provides internal users with access to approved financial records, compliance documents, operational policies, and risk management reports. Employees must use approved systems when searching or retrieving confidential enterprise documents.
+
+Manual document lookup has historically caused delays for finance, compliance, and audit teams. To improve productivity, the company is adopting semantic search and retrieval-augmented generation systems for faster access to enterprise knowledge.
+
+The policy requires that retrieved responses include source references wherever possible. This helps users verify information and supports auditability for enterprise decision-making.
+
+Access to confidential documents must follow role-based access control rules. Sensitive records should not be exposed to unauthorized users. All retrieval systems must follow security, logging, and monitoring requirements.Enterprise Knowledge Access Policy
+
+The organization provides internal users with access to approved financial records, compliance documents, operational policies, and risk management reports. Employees must use approved systems when searching or retrieving confidential enterprise documents.
+
+Manual document lookup has historically caused delays for finance, compliance, and audit teams. To improve productivity, the company is adopting semantic search and retrieval-augmented generation systems for faster access to enterprise knowledge.
+
+The policy requires that retrieved responses include source references wherever possible. This helps users verify information and supports auditability for enterprise decision-making.
+
+Access to confidential documents must follow role-based access control rules. Sensitive records should not be exposed to unauthorized users. All retrieval systems must follow security, logging, and monitoring requirements.
